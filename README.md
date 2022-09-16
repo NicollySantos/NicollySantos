@@ -2,10 +2,8 @@
 ## Bem-vinda(o)! Eu sou a Nicolly
  <div>
   <a href="https://github.com/NicollySantos">
- 
-### LinkedIn 🌎
 
-💼  [LinkedIn](https://www.linkedin.com/in/nicolly-evangelista-hernandes-dos-santos/) <br>
+🌎  [LinkedIn](https://www.linkedin.com/in/nicolly-evangelista-hernandes-dos-santos/) <br>
 
 ### My technology Stack 👩‍💻
 
