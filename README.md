@@ -9,8 +9,8 @@
 
 ### Technologies 👩‍💻
 
-   
-
+  </div>   
+<div align="center">
 <img align="center" alt="Html-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 <img align="center" alt="Css-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 <img align="center" alt="JS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
