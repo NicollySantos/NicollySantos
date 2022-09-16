@@ -19,3 +19,10 @@
 <img align="center" alt="Deno" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg">
 <br />
 <br />
+
+   ## Bem-vinda(o)! Eu sou a Nicolly
+ <div>
+  <a href="https://github.com/NicollySantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollySantos&title_color=ae61fb&icon_color=ae61fb&text_color=ffffff&bg_color=20232a&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=ae61fb&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
+</div>
