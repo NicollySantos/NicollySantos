@@ -1,7 +1,7 @@
 
  <div align="center">
 
-## Bem-vinda(o)! Eu sou a Nicolly
+## Welcome! I'm Nicolly
  
  <a href="https://github.com/NicollySantos">
 
