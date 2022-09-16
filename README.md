@@ -22,6 +22,6 @@
  <div>
   <a href="https://github.com/NicollySantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollySantos&title_color=ae61fb&icon_color=ae61fb&text_color=ffffff&bg_color=20232a&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=ae61fb&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=ae61fb&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
 </div>
 
