@@ -24,7 +24,7 @@
   <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=ae61fb&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
 </div>
 <div align="center" >
-   <a href="emailto:nicollye.hernandes.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:nicollye.hernandes.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/nicolly-evangelista-hernandes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 
