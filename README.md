@@ -35,7 +35,3 @@
    <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="MySQL" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="BOOTSTRAP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></div>
-   
-   
-   ![Snake animation](https://github.com/NicollySantos/NicollySantos/blob/output/github-contribution-grid-snake.svg)
-   
