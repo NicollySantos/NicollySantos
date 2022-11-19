@@ -1,11 +1,14 @@
 
 <div align="center">
 
-## Welcome! I'm Nicolly!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0cabc4&height=120&section=header"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0cabc4&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Nicolly;Venha+conhecer+meus+projetos+e+repositórios!:%29)](https://git.io/typing-svg)
+
  
   <a href="https://github.com/NicollySantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollySantos&title_color=ae61fb&icon_color=ae61fb&text_color=ffffff&bg_color=20232a&show_icons=true"/>
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=ae61fb&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollySantos&title_color=0cabc4&icon_color=0cabc4&text_color=ffffff&bg_color=20232a&show_icons=true"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&title_color=0cabc4&text_color=ffffff&bg_color=20232a&layout=compact&langs_count=7"/>
 
 </div>
 
@@ -33,4 +36,5 @@
    <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="MySQL" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Cypress="55" width="45"src="https://openviewpartners.com/wp-content/uploads/2020/12/cypress-io-logo-round_-1.png">
    <img align="center" alt="BOOTSTRAP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></div>
