@@ -3,12 +3,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0cabc4&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0cabc4&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Nicolly;Venha+conhecer+meus+projetos+e+repositórios!:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0cabc4&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Nicolly;Tenho+18+anos;e+sou+técnica+de+desenvolvimento+de+sistemas;Venha+conhecer+meus+projetos+e+repositórios!:%29)](https://git.io/typing-svg)
+<br/>
  
   <a href="https://github.com/NicollySantos">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicollySantos&show_icons=true&color=0cabc4&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&layout=compact&langs_count=7&color=0cabc4">
+ <img width="60%"  src="https://github-readme-stats.vercel.app/api?username=NicollySantos&show_icons=true&color=0cabc4&include_all_commits=true&count_private=true"><br/>
+   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicollySantos&color=0cabc4&hide_border=false"/><br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantos&layout=compact&langs_count=7&color=0cabc4">
 </div>
 
 <br/>
