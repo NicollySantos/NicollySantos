@@ -37,4 +37,11 @@
    <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="MySQL" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Cypress="55" width="45"src="https://openviewpartners.com/wp-content/uploads/2020/12/cypress-io-logo-round_-1.png">
-   <img align="center" alt="BOOTSTRAP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></div>
+   <img align="center" alt="BOOTSTRAP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><br/><br/>
+  <img src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" height="30" width="40">
+  <img src="https://img.crx4chrome.com/b0/b8/79/mooikfkahbdckldjjndioackbalphokd-logo-20200319.png" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="30" width="40">
+  <img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" height="30" width="40">
+  <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" height="30" width="40">
+   </div>
